@@ -6,7 +6,7 @@ I expect this challenge to take approximately 2 hours to complete. If you believ
 
 You may use any programming language or framework of your choice. Your solution will be evaluated based on clarity, correctness, performance, and the originality of your approach.
 
-**You are encouraged to use AI tools to assist you.** However, you may not use any external search or full-text search libraries. The search functionality must be implemented by you, including tokenization, ranking, and scoring logic.
+**You are encouraged to use AI tools to assist you.** However, you may not use any external search or full-text search libraries. The search functionality must be implemented by you.
 
 ## Part 0: Get the data
 Go to this page [https://nces.ed.gov/ccd/CCDLocaleCode.asp] and download the datasets described as :
