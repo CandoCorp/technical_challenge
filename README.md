@@ -43,7 +43,8 @@ Design and implement your own search algorithm.
 ### Requirements
 - You may choose any search approach.
 - You may **not** use full-text search engines or fuzzy-search libraries (e.g., Elasticsearch, Lucene, SQLite FTS, Whoosh, RapidFuzz, FuzzyWuzzy, etc.).
-- You must implement tokenization and ranking logic yourself.
+- You must implement the search algorithm yourself.
+
 ### Deliverables
 - Implement the search algorithm in code.
 - Provide a visual diagram illustrating your algorithm (UML, flowchart, state diagram, etc.).
